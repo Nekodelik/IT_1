@@ -143,6 +143,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="addition.h" />
+    <ClInclude Include="Binary.h" />
+    <ClInclude Include="Decimal.h" />
+    <ClInclude Include="Integer.h" />
+    <ClInclude Include="Octal.h" />
+    <ClInclude Include="series.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
